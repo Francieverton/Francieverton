@@ -64,8 +64,8 @@ Me chamo Francieverton, tenho 20 anos e sou natural da Paraíba. Atualmente, est
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="C"
+    title="C"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
