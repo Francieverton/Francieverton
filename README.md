@@ -80,6 +80,8 @@ Me chamo Francieverton, tenho 20 anos e sou natural da Paraíba. Atualmente, est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     >
 
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
