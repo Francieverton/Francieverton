@@ -1,8 +1,15 @@
-## 🧑‍💻 Francieverton
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d59a1&height=120&section=header"/>
+</a>
+
+## 💻 $\color{#7aa2f7}{\textbf{Francieverton Oliveira}}$
 
 **`Desenvolvedor`**
 
-Me chamo Francieverton, tenho 20 anos e sou natural da Paraíba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB. Sou apaixonado por tecnologia e costumo compartilhar meus conhecimentos através do meu [LinkedIn](https://www.linkedin.com/in/francieverton-oliveira/)  e/ou do meu [Instagram](https://www.instagram.com/frwncys/), onde mostro minha evolução e ideias.
+Me chamo Francieverton, tenho 20 anos, sou natural da Paraíba e atualmente estou cursando estudante de Análise e Desenvolvimento de Sistemas no IFPB.
+Tenho um olhar curioso por tecnologia e vejo cada projeto como uma chance de aprender algo novo — seja errando, testando ou reinventando.
+Uso minhas redes ([LinkedIn](https://www.linkedin.com/in/francieverton-oliveira/) e [Instagram](https://www.instagram.com/frwncys/)) como diário de evolução: compartilho ideias, experimentos e tudo que vai me moldando como profissional da área.
+
 
 
 <p align="left">
@@ -37,8 +44,8 @@ Me chamo Francieverton, tenho 20 anos e sou natural da Paraíba. Atualmente, est
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
@@ -46,8 +53,8 @@ Me chamo Francieverton, tenho 20 anos e sou natural da Paraíba. Atualmente, est
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -86,14 +93,6 @@ Me chamo Francieverton, tenho 20 anos e sou natural da Paraíba. Atualmente, est
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Francieverton&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -102,3 +101,7 @@ Me chamo Francieverton, tenho 20 anos e sou natural da Paraíba. Atualmente, est
   />
 
 </p>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d59a1&height=120&section=footer"/>
+</a>
