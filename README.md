@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d59a1&height=120&section=header"/>
 </a>
 
-## 💻 $\color{#7aa2f7}{\textbf{Francieverton Oliveira}}$
+# 💻 $\color{#7aa2f7}{\textbf{Francieverton Oliveira}}$
 
 **`Desenvolvedor`**
 
