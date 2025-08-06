@@ -6,10 +6,8 @@
 
 **`Desenvolvedor`**
 
-Me chamo Francieverton, tenho 20 anos, sou natural da Paraíba e atualmente estou cursando estudante de Análise e Desenvolvimento de Sistemas no IFPB.
-Tenho um olhar curioso por tecnologia e vejo cada projeto como uma chance de aprender algo novo — seja errando, testando ou reinventando.
+Sou movido pela curiosidade, especialmente quando o assunto é tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB. Encaro cada projeto como uma nova oportunidade de aprender — seja acertando, errando ou até reinventando.
 Uso minhas redes ([LinkedIn](https://www.linkedin.com/in/francieverton-oliveira/) e [Instagram](https://www.instagram.com/frwncys/)) como diário de evolução: compartilho ideias, experimentos e tudo que vai me moldando como profissional da área.
-
 
 
 <p align="left">
