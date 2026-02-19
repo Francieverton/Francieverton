@@ -9,14 +9,15 @@
 Sou movido pela curiosidade, especialmente quando o assunto é tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB. Encaro cada projeto como uma nova oportunidade de aprender — seja acertando, errando ou até reinventando.
 Uso minhas redes como diário de evolução: compartilho ideias, experimentos e tudo que vai me moldando como profissional da área.
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/francieverton-oliveira/" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/frwncys/" target="_blank">
-    <img align="left" alt="Instagram" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</p>
+</div>
+
 <br/><br/>
 
 ---
